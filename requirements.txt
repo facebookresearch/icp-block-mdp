@@ -1,0 +1,15 @@
+gym==0.15.4
+hydra-core==0.11.3
+mllogger==0.3
+mujoco-py<2.1,>=2.0
+git+git://github.com/deepmind/dm_control.git
+numpy==1.17.4
+opencv-python==4.1.1.26
+pyvirtualdisplay==0.2.4
+scikit-image==0.16.2
+scikit-video==1.1.11
+-f https://download.pytorch.org/whl/torch_stable.html torch==1.3.1+cu92
+tensorboard==2.1.1
+termcolor==1.1.0
+torchvision==0.4.2+cu92
+tqdm==4.38.0
